@@ -1,0 +1,12 @@
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\bin\Debug\GuessNumbersGame.exe.config
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\bin\Debug\GuessNumbersGame.exe
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\bin\Debug\GuessNumbersGame.pdb
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\bin\Debug\GuessNumbersGame.xml
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.vbprojAssemblyReference.cache
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.Form1.resources
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.Resources.resources
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.vbproj.GenerateResource.cache
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.vbproj.CoreCompileInputs.cache
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.exe
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.xml
+C:\Users\Lambdaz\Desktop\GuessNumbersGame\GuessNumbersGame\obj\Debug\GuessNumbersGame.pdb
