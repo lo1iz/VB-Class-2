@@ -1,0 +1,12 @@
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\bin\Debug\Practice no.2.exe.config
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\bin\Debug\Practice no.2.exe
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\bin\Debug\Practice no.2.pdb
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\bin\Debug\Practice no.2.xml
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.vbprojResolveAssemblyReference.cache
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice_no._2.Form1.resources
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice_no._2.Resources.resources
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.vbproj.GenerateResource.cache
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.exe
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.xml
+C:\Users\58121057-2\source\repos\Practice no.2\Practice no.2\obj\Debug\Practice no.2.pdb

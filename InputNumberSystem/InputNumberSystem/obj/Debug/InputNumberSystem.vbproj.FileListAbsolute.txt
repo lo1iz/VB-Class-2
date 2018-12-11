@@ -1,0 +1,12 @@
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.exe.config
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.exe
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.pdb
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.xml
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbprojAssemblyReference.cache
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.Form1.resources
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.Resources.resources
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbproj.GenerateResource.cache
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.exe
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.xml
+C:\Users\Lambdaz\source\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.pdb

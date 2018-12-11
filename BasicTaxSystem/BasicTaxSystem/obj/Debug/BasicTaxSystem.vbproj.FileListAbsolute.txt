@@ -1,0 +1,12 @@
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\bin\Debug\BasicTaxSystem.exe.config
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\bin\Debug\BasicTaxSystem.exe
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\bin\Debug\BasicTaxSystem.pdb
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\bin\Debug\BasicTaxSystem.xml
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.vbprojResolveAssemblyReference.cache
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.Form1.resources
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.Resources.resources
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.vbproj.GenerateResource.cache
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.vbproj.CoreCompileInputs.cache
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.exe
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.xml
+D:\58121057-2\BasicTaxSystem\BasicTaxSystem\obj\Debug\BasicTaxSystem.pdb
